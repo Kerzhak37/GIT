@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new roll in 1.txt file
-=======
-new row in 1.txt file
->>>>>>> new_btanch
+sdfsdfsdfs
